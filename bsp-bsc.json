@@ -1,0 +1,25 @@
+{
+  "name": "BSP Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/BusinessShopDev/danielbsp/main/logobsp.png",
+  "keywords": [
+    "msdc",
+    "bsc"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped BSP",
+        "address": "0x1387720264a9EB94B167c9da253047D2A3dAD7f8",
+        "symbol": "WBSP",
+        "decimals": 18,
+        "chainId": 154745,
+        "logoURI": "https://raw.githubusercontent.com/BusinessShopDev/danielbsp/main/logobsp.png"
+    }
+  ]
+}
